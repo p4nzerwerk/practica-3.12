@@ -1,0 +1,40 @@
+body {
+    background-color: bisque;
+}
+
+div.primero {
+    text-align: center;
+    width: 80;
+    height: 80;
+}
+
+nav.enlaces {
+    text-align: center;
+    background-color: rgb(133, 233, 233);
+}
+a:visited{
+    color: rgb(25, 102, 25);
+}
+
+a:link {
+    color: rgb(25, 102, 25);
+}
+
+div.uno {
+background-color: rgb(133, 233, 233) ;
+display: inline-block;
+text-align: left;
+
+}
+
+span {
+    background-color: yellow;
+ }
+
+footer {
+    text-align: center;
+ }
+
+ div.centro {
+    text-align: center;
+ }
